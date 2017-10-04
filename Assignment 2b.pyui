@@ -1,0 +1,106 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 94}, {155, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{225, 260}, {150, 32}}",
+          "uuid" : "E4ADD1F4-5AE8-414E-969B-D29AEB5A5A21",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "second",
+          "name" : "second_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{270, 94}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{200, 260}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "A35EF9DA-5F7D-448C-9684-BFD3B0121EB8",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "second_textbox",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{118, 161}, {171, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "calculate_button_touch_up_inside",
+          "frame" : "{{260, 260}, {80, 32}}",
+          "title" : "calculate",
+          "uuid" : "E9E735C7-9078-4D13-8EB0-59F7F675ABB4",
+          "class" : "Button",
+          "name" : "calculate_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{5, 250}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "Height_label",
+          "frame" : "{{225, 260}, {150, 32}}",
+          "uuid" : "0CB8CCA9-C74B-43A2-9913-129AB282D0A9",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Height",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{183, 250}, {369, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "answer_label",
+          "frame" : "{{225, 260}, {150, 32}}",
+          "uuid" : "F8203B38-4C31-41B3-82A1-1D0044D67E67",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {599, 551}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
